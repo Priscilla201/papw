@@ -20,7 +20,7 @@
 		<sonar.projectKey>novoprojetosonar</sonar.projectKey>
 		<sonar.organization>rodrigofujioka</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>b372b734a4ee72cf170d1b181db6474c5d7f1844</sonar.login>
+		<sonar.login>67836e56229a29d478481bfae1ef129224601d20</sonar.login>
 
 	</properties>
 

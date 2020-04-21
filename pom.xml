@@ -17,9 +17,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>sonartest</sonar.projectKey>
+		<sonar.projectKey>spi20201</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>49f3a895a4d828d60fd42c891c38e559f49d5e15</sonar.login>
+		<sonar.login>20c2caa44eb2cc1402ea8d25abc3cccce7ebfce9</sonar.login>
 
 	</properties>
 

@@ -17,9 +17,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>newproject</sonar.projectKey>
+		<sonar.projectKey>sonartest</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>28cd861044539472d836e7e83f3ed975e8bbc913</sonar.login>
+		<sonar.login>49f3a895a4d828d60fd42c891c38e559f49d5e15</sonar.login>
 
 	</properties>
 

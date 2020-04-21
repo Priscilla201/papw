@@ -16,10 +16,10 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
-		 <sonar.projectKey>Projeto_Sonar2020</sonar.projectKey>
+		<sonar.projectKey>JenkinsProject</sonar.projectKey>
   		<sonar.organization>priscilla201</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
- 		 <sonar.login>71c120b4fe922b442c9cb9e4b3a1efeab5837394</sonar.login>
+ 		 <sonar.login>0192c1a5c2e3cf1b5b59f2abc011246c595d7c77</sonar.login>
 
 	</properties>
 

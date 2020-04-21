@@ -16,10 +16,10 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
-		<java.version>1.8</java.version>
-		<sonar.projectKey>spi20201</sonar.projectKey>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>20c2caa44eb2cc1402ea8d25abc3cccce7ebfce9</sonar.login>
+		 <sonar.projectKey>Projeto_Sonar2020</sonar.projectKey>
+  		<sonar.organization>priscilla201</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+ 		 <sonar.login>71c120b4fe922b442c9cb9e4b3a1efeab5837394</sonar.login>
 
 	</properties>
 

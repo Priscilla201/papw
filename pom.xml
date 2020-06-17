@@ -16,13 +16,11 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
-		<sonar.projectKey>projetojenkins</sonar.projectKey>
+  		<sonar.projectKey>novoprojeto2020_20</sonar.projectKey>
  		 <sonar.organization>priscilla201</sonar.organization>
  		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		  <sonar.login>85b2a119f5345566b860df0129aa6cc5c6f273f4</sonar.login>
-
+ 		 <sonar.login>c3051e31f293eb8792801725ccde8d9448474a62</sonar.login>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
